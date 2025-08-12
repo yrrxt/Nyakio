@@ -1,0 +1,35 @@
+.social-link {
+  font-size: inherit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.social-link:hover {
+  text-decoration: none;
+}
+
+.social-profiles {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: -1.5rem;
+}
+
+.whatsapp-community {
+  width: fit-content;
+  margin-bottom: -4.5rem;
+  margin-left: 1.2rem;
+}
+
+.medium {
+  margin-left: 3.2rem;
+}
+span {
+  color: blue;
+}
+
+span:hover {
+  text-decoration: underline;
+}
